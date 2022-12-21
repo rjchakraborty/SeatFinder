@@ -12,7 +12,7 @@ Your objective is to develop a mobile application that, given a seat number, wou
 Here is an example of how the app might appear and work, but we encourage that you add your own flair and build something from your own perspective.
 
 
-image.png
+![image](https://user-images.githubusercontent.com/71636191/171661982-430285f0-2e12-4b1d-9957-4a58e375304d.png)
 
 
 Quality of the code, responsive UI practices, logic efficiency are maintained in this project. 
