@@ -18,10 +18,10 @@ class Home extends StatefulWidget {
 
 class HomeState extends State<Home> {
   List<Seat> seats = [];
-  static const int TOTAL_SEATS = 72;
-  static const int SEATS_EACH_BERTH = 8;
-  static const int SEATS_MAIN = 6;
-  static const int SEATS_SIDE = 2;
+  final int TOTAL_SEATS = 72;
+  final int SEATS_EACH_BERTH = 8;
+  final int SEATS_MAIN = 6;
+  final int SEATS_SIDE = 2;
 
   String? query;
 
