@@ -1,6 +1,6 @@
 Single-screen mobile application using flutter.
 
-#Indian Railway Sleeper Coach Seating arrangement and Seat Finder
+## Indian Railway Sleeper Coach Seating arrangement and Seat Finder
 
 Problem statement
 On a railroad or ship, a berth is a bed that is typically stacked like bunk beds.
