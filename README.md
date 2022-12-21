@@ -12,7 +12,7 @@ Your objective is to develop a mobile application that, given a seat number, wou
 Here is an example of how the app might appear and work, but we encourage that you add your own flair and build something from your own perspective.
 
 
-![image]([https://user-images.githubusercontent.com/71636191/171661982-430285f0-2e12-4b1d-9957-4a58e375304d.png](https://github.com/rjchakraborty/SeatFinder/blob/5b6ec15ded3cc6536f4cb60075b36c62cb27c82a/seat_layout.png))
+![image](https://github.com/rjchakraborty/SeatFinder/blob/5b6ec15ded3cc6536f4cb60075b36c62cb27c82a/seat_layout.png))
 
 
 
