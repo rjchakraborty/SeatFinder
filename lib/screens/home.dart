@@ -207,9 +207,9 @@ class HomeState extends State<Home> {
   }
 
   scrollToItem() {
-    if (seats != null && seats.isNotEmpty) {
-      int seatNumber = CommonUtils.getInt(query);
-      if (seatNumber > 0 && seatNumber <= TOTAL_SEATS && seats.length > (seatNumber - 1)) {
+     if (seats != null && seats.isNotEmpty) {
+      int seatNumber = CommonUtils.getInt(query) - 1;
+      if (seatNumber > 0 && seatNumber <= TOTAL_SEATS && seats.length > seatNumber) {
         int berth = (seatNumber / SEATS_EACH_BERTH).ceil();
         _scrollController.scrollTo(index: (berth > 1) ? (berth - 1) : 0, duration: Duration(milliseconds: 500));
       }
